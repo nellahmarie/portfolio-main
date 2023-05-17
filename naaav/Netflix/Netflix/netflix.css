@@ -46,7 +46,7 @@ img{
     width: 100%;
     height: 100vh;
     position: relative;
-    background: url("/assests/backgroundimage.jpg") no-repeat center center/cover;
+    background: url("/naaav/Netflix/Netflix/assests/background.jpg") no-repeat center center/cover;
 }
 
 .showcase::after{
@@ -91,7 +91,7 @@ img{
     justify-content: center;
     text-align: center;
     align-items: center;
-    margin-top: 9rem;
+    margin-top: 4rem;
 }
 
 .showcase-content h1{
@@ -321,7 +321,7 @@ img{
 
 .footer{
     max-width: 70%;
-    margin: 1rem auto;
+    margin: 3rem auto;
     overflow: auto;
 }
 
